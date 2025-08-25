@@ -7,7 +7,7 @@ import cv2
 
 def padding():
     image=
-    border_width=
+    border_width=jnnj
 
 
 
